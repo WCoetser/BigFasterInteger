@@ -1,5 +1,5 @@
 # BigFasterInteger
-A C# wrapper for the GMP library. The aim of this wrapper is to give C# programmers access to faster integer operations. This library is compiled for 64-bit Intel processors running on Windows. [Update: Does not work on Intel i7 6700]
+A C# wrapper for the GMP library. The aim of this wrapper is to give C# programmers access to faster integer operations. This library is compiled for Intel i7 Skylake processors and uses the GNU multiprecision library, version 6.1.1.
 
 # Motivation
 I created this wrapper because I want to play around with images represented as large integers.
